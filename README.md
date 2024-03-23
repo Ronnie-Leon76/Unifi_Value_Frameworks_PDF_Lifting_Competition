@@ -1,0 +1,2 @@
+## Unifi Value Frameworks PDF Lifting Competition
+The objective of the competition is to create a solution that parses annual reports in PDF format and extracts information about pre-defined activity metrics, in order for Unifi to obtain specific information about sustainability at a given company.
